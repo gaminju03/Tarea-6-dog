@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Busqueda de Raza de Perros</string>
+    <string name="txtBienvenidos">Bienvenidos a mi App donde podrán encontrar la raza de perro que deseen con solo buscar</string>
+    <string name="txtRaza">Raza de perro</string>
+    <string name="btnBuscar">Buscar</string>
+</resources>
